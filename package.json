@@ -1,0 +1,13 @@
+{
+  "name": "think-mongod",
+  "version": "1.0.0",
+  "description": "moduel for connect mongodb",
+  "main": "index.js",
+  "repository": "https://github.com/nfwyst/think-mongod",
+  "author": "nfwyst",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mongodb": "^3.1.1"
+  }
+}
